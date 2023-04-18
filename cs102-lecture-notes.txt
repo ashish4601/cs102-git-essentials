@@ -12,3 +12,4 @@ git commit -m "type a message to name the changes"
 
 Once the changes are committed it can be pushed to the server repository
 git push origin main
+today we learn about markdown language
