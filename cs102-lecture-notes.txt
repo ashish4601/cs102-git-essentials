@@ -1,0 +1,14 @@
+git --version 
+to check whether git is installed.
+
+git add file_name.extension 
+To add all files in the current directory
+
+To see the current status of the repository, run the following
+git status
+
+We now commit changes. That means the current state of the files/folders will be stored in the git repository permanently.
+git commit -m "type a message to name the changes"
+
+Once the changes are committed it can be pushed to the server repository
+git push origin main
